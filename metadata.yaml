@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39120'
     url: http://www.gutenberg.org/2009/agents/39120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37897#Villages-of-the-Algonquian-Siouan-and-Caddoan-Tribes-West-of-the-Mississippi
 gutenberg_issued: '2011-11-01'
 gutenberg_type: Text
 identifiers:
