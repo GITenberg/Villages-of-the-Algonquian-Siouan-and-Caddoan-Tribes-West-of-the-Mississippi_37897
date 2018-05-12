@@ -1,0 +1,31 @@
+_repo: Villages-of-the-Algonquian-Siouan-and-Caddoan-Tribes-West-of-the-Mississippi_37897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bushnell, David I. (David Ives)
+    alias: Bushnell, David Ives
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '39120'
+    url: http://www.gutenberg.org/2009/agents/39120
+description: ''
+gutenberg_issued: '2011-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37897'
+  lccn: '23026216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siouan Indians'
+- !lcsh 'Indians of North America -- Dwellings'
+- !lcc 'E011'
+- !lcsh 'Algonquian Indians'
+- !lcsh 'Caddoan Indians'
+title: Villages of the Algonquian, Siouan, and Caddoan Tribes West of the Mississippi
+url: http://www.gutenberg.org/ebooks/37897
